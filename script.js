@@ -52,5 +52,5 @@ searchBox.addEventListener("keypress", function(event){
     }
 })
 
-searchbox.focus();
+searchBox.focus();
 
